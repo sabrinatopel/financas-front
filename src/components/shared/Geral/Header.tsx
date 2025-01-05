@@ -34,7 +34,7 @@ export default function Header() {
     },
   ];
 
-  const start = <h4>Finanças</h4>;
+  const start = <h4 className="mr-2">Finanças</h4>;
 
-  return <Menubar model={items} start={start} />
+  return <Menubar model={items} start={start} />;
 }
