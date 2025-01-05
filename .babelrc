@@ -1,0 +1,13 @@
+{
+  "plugins": [
+    [
+      "import",
+      {
+        "libraryName": "primereact",
+        "libraryDirectory": "components",
+        "style": "css"
+      },
+      "primereact"
+    ]
+  ]
+}
