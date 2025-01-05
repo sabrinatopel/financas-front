@@ -5,6 +5,7 @@ export default {
     AutoImport({
       imports: [
         'react', // Auto-importa React
+         'react-router-dom',
         {
           'primereact/autocomplete': ['AutoComplete'],
           'primereact/accordion': ['Accordion'],
